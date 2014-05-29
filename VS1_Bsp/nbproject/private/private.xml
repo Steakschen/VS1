@@ -3,9 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Dropbox/Studium/Semester_4/Betriebssysteme/Übungen/os-lab03/VS1_Bsp/src/vs1/bsp/TestServer.java</file>
-            <file>file:/D:/Dropbox/Studium/Semester_4/Betriebssysteme/Übungen/os-lab03/VS1_Bsp/src/vs1/bsp/TestServerHandler.java</file>
-            <file>file:/D:/Dropbox/Studium/Semester_4/Betriebssysteme/Übungen/os-lab03/VS1_Bsp/src/vs1/bsp/TestClient.java</file>
+            <file>file:/C:/Users/Carsten/Documents/GitHub/VS1/VS1_Bsp/src/vs1/chatbsp/Server.java</file>
+            <file>file:/C:/Users/Carsten/Documents/GitHub/VS1/VS1_Bsp/src/vs1/chatbsp/Client.java</file>
         </group>
     </open-files>
 </project-private>
